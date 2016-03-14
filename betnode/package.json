@@ -1,0 +1,22 @@
+{
+  "name": "betgame",
+  "version": "1.0.0",
+  "description": "fun betting game",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:pajkicdj/Node-Betting-Game.git"
+  },
+  "keywords": [
+    "bet"
+  ],
+  "author": "Djina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pajkicdj/Node-Betting-Game/issues"
+  },
+  "homepage": "https://github.com/pajkicdj/Node-Betting-Game"
+}
